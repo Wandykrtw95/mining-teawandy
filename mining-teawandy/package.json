@@ -38,3 +38,6 @@
   },
   "homepage": "https://github.com/Wandykrtw95/mining-teawandy#readme"
 }
+"publishConfig": {
+  "@wandykrtw95:registry": "https://npm.pkg.github.com"
+}
